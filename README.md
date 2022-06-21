@@ -18,3 +18,4 @@ A simple python script to compress `folders` and `files` to `zip`.
 Example: python zipfiles.py test.txt python zipfiles.py ./test (folder)
 ```
 > A Compressed file("filename.zip") will be generated after the program is run
++
